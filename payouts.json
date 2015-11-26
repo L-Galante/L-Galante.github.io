@@ -1,0 +1,554 @@
+{
+	"slotsPayout" : [{
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 0,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1000000
+			},
+			"id" : 4
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 0,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 200000
+			},
+			"id" : 3
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 1,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 50000
+			},
+			"id" : 9
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 2,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 40000
+			},
+			"id" : 14
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 0,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 20000
+			},
+			"id" : 2
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 3,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 20000
+			},
+			"id" : 19
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 1,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 15000
+			},
+			"id" : 8
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 4,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 15000
+			},
+			"id" : 24
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 5,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 12500
+			},
+			"id" : 29
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 2,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 10000
+			},
+			"id" : 13
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 6,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 10000
+			},
+			"id" : 34
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 7,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 7500
+			},
+			"id" : 39
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 3,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 7000
+			},
+			"id" : 18
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 4,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 5000
+			},
+			"id" : 23
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 8,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 5000
+			},
+			"id" : 44
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 1,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 4000
+			},
+			"id" : 7
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 5,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 4000
+			},
+			"id" : 28
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 6,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 3000
+			},
+			"id" : 33
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 2,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 2500
+			},
+			"id" : 12
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 3,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 2000
+			},
+			"id" : 17
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 7,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 2000
+			},
+			"id" : 38
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 4,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1500
+			},
+			"id" : 22
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 8,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1500
+			},
+			"id" : 43
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 0,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1000
+			},
+			"id" : 1
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 5,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1000
+			},
+			"id" : 27
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 6,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 1000
+			},
+			"id" : 32
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 7,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 500
+			},
+			"id" : 37
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 8,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 500
+			},
+			"id" : 42
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 1,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 200
+			},
+			"id" : 6
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 2,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 200
+			},
+			"id" : 11
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 0,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 55
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 1,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 56
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 2,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 57
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 3,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 58
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 4,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 59
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 5,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 60
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 6,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 61
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 7,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 62
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 8,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 63
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 1,
+				"symbolRef" : 9,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 64
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 3,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 66
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 4,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 67
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 5,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 68
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 6,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 69
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 7,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 70
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 8,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 71
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 2,
+				"symbolRef" : 9,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 72
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 3,
+				"symbolRef" : 9,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 74
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 4,
+				"symbolRef" : 9,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 75
+		}, {
+			"slotsPayoutCriteria" : {
+				"number" : 5,
+				"symbolRef" : 9,
+				"type" : "WinLine"
+			},
+			"win" : {
+				"stateTransitions" : null,
+				"amount" : 0
+			},
+			"id" : 76
+		}
+	]
+}
